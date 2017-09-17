@@ -33,8 +33,6 @@ Our **[Github repository](https://github.com/HackYourFuture)** contains all the 
 ### Slack
 **[Slack](https://slack.com/is)** is used to communicate between teachers and students during the week. Each class has their own channel in Slack where module specific questions can be asked. We require our students to be active on Slack and ask questions when they get stuck. Students are off course also stimulated to help each other out.
 
-### Trello
-**[Trello](https://trello.com/tour)** is where students hand in their homework and also receive feedback on their assignments every week. It's a commonly used tool for project management in workspaces and valuable to know your way around it.
 
 ## What do we teach?
 
