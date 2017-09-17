@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HackYourFuture Curriculum
 
 >Here you can find an overview of the HackYourFuture program. It gives insight in how our program is structured, organized, what you can expect from the modules that we teach and last but not least where we teach and where you can find support during the week. Our half year course is divided into modules that last 3 weeks with exception of the project module that lasts 6 weeks. Below you can find a short listing of the contents and deliverables/learning goals of the different modules. The headers of the different modules link to the actual repositories that are used by teachers to post assignments/reading materials etc. Be aware that some of the modules make use of more than one repository. 
@@ -195,3 +196,6 @@ By the end of this module, students should have a familiarity with and basic und
 - Get an understanding of how (technical) interviews go in the Dutch job market.
 
 Our curriculum is subject to CC BY copyright. This means you can freely use our materials, but just make sure to give us credit for it:)
+=======
+# curriculum
+>>>>>>> 4064952f8c6937fabe380fa69bb127c44dc64853
