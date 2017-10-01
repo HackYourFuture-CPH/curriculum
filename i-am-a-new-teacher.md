@@ -2,7 +2,7 @@
 
 ### Super nice that you joined our HYF Copenhagen teaching team, here are some practical things to help you get started:
 
-\*:information_desk_person: If you don't have access to one of the things mentioned below, ask Nynne.
+\*:information_desk_person: If you don't have access to one of the things mentioned below, ask Nynne or Christopher.
 
 **Slack**
 - Our Slack has channels for every class, the main goal here is that we support students with questions/their homework during the week. You of course don't have to join all of them, but please join the channel of the class that you are currently teaching or helping out with. If you are not in Slack yet: :information_desk_person: 
