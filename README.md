@@ -28,7 +28,7 @@ Students are expected to finish all reading material before class, teachers prov
 ## What tools do we use?
 
 ### Github
-Our **[Github repository](https://github.com/HackYourFuture)** contains all the specifications and learning goals for the different modules. It's advised to get yourself familiar with [Github](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/). How to actually work with Git, a version control system, will be covered during the JavaScript modules. If students did not follow this modules yet they at least should be able to navigate and find course material inside our Github repository.
+Our **[Github repository](https://github.com/HackYourFuture-CPH** contains all the specifications and learning goals for the different modules. It's advised to get yourself familiar with [Github](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/). How to actually work with Git, a version control system, will be covered during the JavaScript modules. If students did not follow this modules yet they at least should be able to navigate and find course material inside our Github repository.
 
 ### Slack
 **[Slack](https://slack.com/is)** is used to communicate between teachers and students during the week. Each class has their own channel in Slack where module specific questions can be asked. We require our students to be active on Slack and ask questions when they get stuck. Students are off course also stimulated to help each other out.
@@ -36,7 +36,7 @@ Our **[Github repository](https://github.com/HackYourFuture)** contains all the 
 
 ## What do we teach?
 
-## [HTML/CSS](https://github.com/HackYourFuture/HTML-CSS)
+## [HTML/CSS](https://github.com/HackYourFuture-CPH/HTML-CSS)
 
 >HTML is the standard markup language for creating Web pages. CSS is a language that describes the style of an HTML document. This module will introduce the basic concepts of HTML5 and CSS. We spend time getting you familiar with your text editor and handy developer tools. After this we will focus on responsive web development. Making responsive websites is an important part of front-end programming. You will learn how to make your websites responsive by using media queries using a “mobile first” approach. Last but not least we will spend time practicing some soft skills that we think are important for becoming a good developer. These include: give and receive feedback to your fellow students, presenting and explaining your work.
 
