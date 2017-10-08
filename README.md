@@ -54,7 +54,7 @@ Our **[Github repository](https://github.com/HackYourFuture-CPH** contains all t
 - Presenting and explaining your work to others
 
 
-## [JavaScript1](https://github.com/HackYourFuture/JavaScript/tree/laurens_thomas) + [CLI](https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-1.md)
+## [JavaScript1](https://github.com/HackYourFuture-CPH/JavaScript) + [CLI](https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-1.md)
 
 
 >The command line (cli, shell) is the interface between you (the user) and the operating system which interprets your commands and allows the computer to respond to your command. In this module two half day sessions are spend to get students familiar with the command line.
