@@ -17,7 +17,7 @@ During the week students work at home on the given assignments or reading materi
 ## How do we teach?
 
 ### Modules
-At HackYourFuture we teach in modules. The modules can be seen as a three week [sprint](http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint) wherein the teachers set clear learning goals for the end of each module. The list of module goals should be used by students to check if they understood all the core concepts of a certain module. 
+At HackYourFuture we teach in modules. The modules can be seen as a 3-5 week [sprint](http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint) wherein the teachers set clear learning goals for the end of each module. The list of module goals should be used by students to check if they understood all the core concepts of a certain module. 
 
 ### What do we mean by module goals?
 Module goals can be read as: "by the end of this module, students should have a familiarity with and basic understanding of the following"
@@ -28,7 +28,7 @@ Students are expected to finish all reading material before class, teachers prov
 ## What tools do we use?
 
 ### Github
-Our **[Github repository](https://github.com/HackYourFuture-CPH** contains all the specifications and learning goals for the different modules. It's advised to get yourself familiar with [Github](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/). How to actually work with Git, a version control system, will be covered during the JavaScript modules. If students did not follow this modules yet they at least should be able to navigate and find course material inside our Github repository.
+Our **[Github repository](https://github.com/HackYourFuture-CPH** contains all the specifications and learning goals for the different modules. It's advised to get yourself familiar with [Github](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/). How to actually work with Git, a version control system, will be covered during the JavaScript modules. If students did not follow these modules yet they at least should be able to navigate and find course material inside our Github repository.
 
 ### Slack
 **[Slack](https://slack.com/is)** is used to communicate between teachers and students during the week. Each class has their own channel in Slack where module specific questions can be asked. We require our students to be active on Slack and ask questions when they get stuck. Students are off course also stimulated to help each other out.
@@ -57,14 +57,14 @@ Our **[Github repository](https://github.com/HackYourFuture-CPH** contains all t
 ## [JavaScript1](https://github.com/HackYourFuture-CPH/JavaScript) + [CLI](https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-1.md)
 
 
->The command line (cli, shell) is the interface between you (the user) and the operating system which interprets your commands and allows the computer to respond to your command. In this module two half day sessions are spend to get students familiar with the command line.
+>The command line (cli, shell) is the interface between you (the user) and the operating system which interprets your commands and allows the computer to respond to your command. In this module two half day sessions are spent to get students familiar with the command line.
 
 In [this](https://github.com/HackYourFuture/JavaScript/tree/master/fundamentals) repo you can find a very nice overview of some of the fundamental javaScript concepts
 
 **Module goals** 
 
 __JavaScript:__
-- What is JavaScript and where can you use it for
+- What is JavaScript and what can you use it for
 - Basic Data Types
     - Strings
     - Numbers
