@@ -2,11 +2,11 @@
 
 ### Super nice that you joined our HYF Copenhagen teaching team, here are some practical things to help you get started:
 
-\*:information_desk_person: If you don't have access to one of the things mentioned below, ask Christopher.
+\*:male-technologist: If you don't have access to one of the things mentioned below, ask Christopher.
 
 **Slack**
-- Our Slack has channels for every class, the main goal here is that we support students with questions/their homework during the week. You of course don't have to join all of them, but please join the channel of the class that you are currently teaching or helping out with. If you are not in Slack yet: :information_desk_person: 
-- We also have a mentor room (super secret). :information_desk_person: 
+- Our Slack has channels for every class, the main goal here is that we support students with questions/their homework during the week. You of course don't have to join all of them, but please join the channel of the class that you are currently teaching or helping out with. If you are not in Slack yet: :male-technologist: 
+- We also have a mentor room (super secret). :male-technologist: 
 
 **Modules**
 - All modules have their own repository in our Github organization.
@@ -16,5 +16,5 @@
 - If you are teaching a certain module and would like to make changes on the contents of the repo, please create a branch with your name and your fellow teacher, like: `yourname_othername`. Our master branches are protected, if you would like to change something to the default module please make a PR. 
 
 
-**Any other questions?**:arrow_right: :information_desk_person:
+**Any other questions?**:arrow_right: :male-technologist:
 
