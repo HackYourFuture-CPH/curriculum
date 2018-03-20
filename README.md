@@ -29,7 +29,7 @@ Students are expected to finish all reading material before class, teachers prov
 ## What tools do we use?
 
 ### Github
-Our **[Github repository](https://github.com/HackYourFuture-CPH** contains all the specifications and learning goals for the different modules. It's advised to get yourself familiar with [Github](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/). How to actually work with Git, a version control system, will be covered during the JavaScript modules. If students did not follow these modules yet they at least should be able to navigate and find course material inside our Github repository.
+Our **[Github repository](https://github.com/HackYourFuture-CPH)** contains all the specifications and learning goals for the different modules. It's advised to get yourself familiar with [Github](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/). How to actually work with Git, a version control system, will be covered during the JavaScript modules. If students did not follow these modules yet they at least should be able to navigate and find course material inside our Github repository.
 
 ### Slack
 **[Slack](https://slack.com/is)** is used to communicate between teachers and students during the week. Each class has their own channel in Slack where module specific questions can be asked. We require our students to be active on Slack and ask questions when they get stuck. Students are off course also stimulated to help each other out.
