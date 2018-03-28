@@ -22,6 +22,20 @@ At the end of the 7 modules we start a `final project` which is the most importa
 - We have a private repository where fellow teachers share their [teaching-tips-and-tricks](https://github.com/HackYourFuture/teaching_tips_tricks), if you are new to teaching or are just curious on what they think works well in class, take a look.
 - If you are teaching a certain module and would like to make changes on the contents of the repo, please create a branch with your name and your fellow teacher, like: `yourname_othername`. Our master branches are protected, if you would like to change something to the default module please make a PR.
 
+**FAQ**  
+
+- Q: **How much time does teaching require per week?**  
+A: About 10 hours (preparing, teaching, feedback)
+
+- Q: **Do I need to be a working professional to teach?**  
+A: No, you don't need to be a working professional, but it is a big plus. We want our students to learn from people who work with the frameworks we teach on a daily basis and know the challenges of the market.  
+
+- Q: **Will I be teaching all by myself?**  
+A: No, teaching always happens in pairs. This allows for less pressure on the individual, split responsibility and a broader perspective for our students.
+
+- Q: **When do the classes take place?**  
+A: Sundays 12:00 - 16:00    
+
 
 **Any other questions?**:arrow_right: :👨‍💻:
 
