@@ -91,7 +91,7 @@ __CLI:__
 - Learn output redirection, piping on the terminal.
 - Write basic shell scripts to ease the programming life.
 
-## [JavaScript2](https://github.com/HackYourFuture/JavaScript/tree/laurens_thomas) + [GIT](https://github.com/HackYourFuture/Git)
+## [JavaScript2](https://github.com/HackYourFuture-CPH/JavaScript-2) + [GIT](https://github.com/HackYourFuture/Git)
 
 **Module goals**
 
@@ -123,7 +123,7 @@ __Git:__
 - Know how to navigate between branches and what git commands to use for them.
 - Have an understanding of what `HEAD` means.
 
-## [JavaScript3](https://github.com/HackYourFuture/JavaScript/tree/laurens_thomas) + [GIT](https://github.com/HackYourFuture/Git)
+## [JavaScript3](https://github.com/HackYourFuture-CPH/JavaScript-3) + [GIT](https://github.com/HackYourFuture/Git)
 
 **Module goals**
 
