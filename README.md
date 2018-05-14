@@ -1,5 +1,5 @@
 
-# HackYourFuture Curriculum Copenhagen
+# HackYourFuture Curriculum Copenhagen 🇩🇰
 
 >Here you can find an overview of the HackYourFuture program and a short listing of the contents and deliverables/learning goals of the different modules. The headers of the different modules link to the actual repositories that are used by teachers to post assignments/reading materials etc. Be aware that some of the modules make use of more than one repository. 
 
@@ -16,9 +16,11 @@ Class is every Sunday from 12.00 to approximately 16/16.30.
 
 ## What do we teach?
 
-## [HTML/CSS](https://github.com/HackYourFuture-CPH/HTML-CSS)
+## [HTML/CSS](https://github.com/HackYourFuture-CPH/HTML-CSS) + [CLI](https://github.com/HackYourFuture-CPH/CommandLine)
 
->HTML is the standard markup language for creating Web pages. CSS is a language that describes the style of an HTML document. This module will introduce the basic concepts of HTML5 and CSS. We spend time getting you familiar with your text editor and handy developer tools. After this we will focus on responsive web development. Making responsive websites is an important part of front-end programming. You will learn how to make your websites responsive by using media queries using a “mobile first” approach. Last but not least we will spend time practicing some soft skills that we think are important for becoming a good developer. These include: give and receive feedback to your fellow students, presenting and explaining your work.
+>The **command line** (cli, shell) is the interface between you (the user) and the operating system which interprets your commands and allows the computer to respond to your command. In this module two half day sessions are spent to get students familiar with the command line.
+
+>**HTML** is the standard markup language for creating Web pages. **CSS** is a language that describes the style of an HTML document. This module will introduce the basic concepts of HTML5 and CSS. We spend time getting you familiar with your text editor and handy developer tools. After this we will focus on responsive web development. Making responsive websites is an important part of front-end programming. You will learn how to make your websites responsive by using media queries using a “mobile first” approach. Last but not least we will spend time practicing some soft skills that we think are important for becoming a good developer. These include: give and receive feedback to your fellow students, presenting and explaining your work.
 
 **Module goals**
 - Basic understanding of HTML5 and CSS (DOM, semantic elements)
@@ -34,10 +36,7 @@ Class is every Sunday from 12.00 to approximately 16/16.30.
 - Presenting and explaining your work to others
 
 
-## [JavaScript1](https://github.com/HackYourFuture-CPH/JavaScript) + [CLI](https://github.com/HackYourFuture/CommandLine/blob/master/Lecture-1.md)
-
-
->The command line (cli, shell) is the interface between you (the user) and the operating system which interprets your commands and allows the computer to respond to your command. In this module two half day sessions are spent to get students familiar with the command line.
+## [JavaScript1](https://github.com/HackYourFuture-CPH/JavaScript) + [GIT](https://github.com/HackYourFuture-CPH/Git)
 
 In [this](https://github.com/HackYourFuture/JavaScript/tree/master/fundamentals) repo you can find a very nice overview of some of the fundamental javaScript concepts
 
