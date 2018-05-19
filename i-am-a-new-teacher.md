@@ -33,6 +33,9 @@ A: No, you don't need to be a working professional, but it is a big plus. We wan
 - Q: **Will I be teaching all by myself?**  
 A: No, teaching always happens in pairs. This allows for less pressure on the individual, split responsibility and a broader perspective for our students.
 
+- Q: **Do I have to teach exactly like it says in the repo?**  
+A: No, you can basically teach however you best see fit. We have learning goals we want to complete in each module and that the next module builds on, but that's about all that is set. You also don't need to reinvent the wheel about how to teach, all the material is there if you prefer to follow existing instructions.
+
 - Q: **When do the classes take place?**  
 A: Sundays 12:00 - 16:00    
 
