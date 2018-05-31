@@ -38,7 +38,7 @@ Class is every Sunday from 12.00 to approximately 16/16.30.
 
 ## [JavaScript1](https://github.com/HackYourFuture-CPH/JavaScript) + [GIT](https://github.com/HackYourFuture-CPH/Git)
 
-In [this](https://github.com/HackYourFuture/JavaScript/tree/master/fundamentals) repo you can find a very nice overview of some of the fundamental javaScript concepts
+In [this](https://github.com/HackYourFuture-CPH/JavaScript/tree/master/fundamentals) repo you can find a very nice overview of some of the fundamental javaScript concepts
 
 **Module goals** 
 
