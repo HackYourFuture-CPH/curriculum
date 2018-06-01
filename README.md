@@ -1,5 +1,5 @@
 
-# HackYourFuture Curriculum Copenhagen :🇩🇰: 
+# HackYourFuture Curriculum Copenhagen 🇩🇰
 
 >Here you can find an overview of the HackYourFuture program and a short listing of the contents and deliverables/learning goals of the different modules. The headers of the different modules link to the actual repositories that are used by teachers to post assignments/reading materials etc. Be aware that some of the modules make use of more than one repository. 
 
