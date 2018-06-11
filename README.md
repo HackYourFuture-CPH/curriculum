@@ -11,6 +11,8 @@
 
 ## When do we teach?
 
+![Curriculum graphic + project](https://github.com/HackYourFuture-CPH/curriculum-graphic-wide.jpg)
+
 ### Class on Sunday
 Class is every Sunday from 12.00 to approximately 16/16.30. 
 
