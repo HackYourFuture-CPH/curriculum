@@ -16,6 +16,8 @@ Class is every Sunday from 12.00 to approximately 16/16.30.
 
 ## What do we teach?
 
+![Curriculum graphic + project](https://github.com/HackYourFuture-CPH/curriculum/blob/master/curriculum-graphic-wide.png)
+
 ## [HTML/CSS](https://github.com/HackYourFuture-CPH/HTML-CSS) + [CLI](https://github.com/HackYourFuture-CPH/CommandLine)
 
 >The **command line** (cli, shell) is the interface between you (the user) and the operating system which interprets your commands and allows the computer to respond to your command. In this module two half day sessions are spent to get students familiar with the command line.
