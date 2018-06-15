@@ -140,7 +140,13 @@ There are two reasons why we at HYF choose Node.JS over others:
 
 **Module goals**
 
-TBA
+By the end of this module, students should have a familiarity with and basic understanding of the following:  
+
+- React Components   
+- State and Lifecycle   
+- Forms and Managing State   
+- Flux & MobX MobX    
+- API Integration   
 
 ## [Database](https://github.com/HackYourFuture-CPH/databases)
 
