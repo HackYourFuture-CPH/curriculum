@@ -12,7 +12,7 @@
 
 We teach the curriculum split into 7 `modules`. A module usually consists of 3-5 `weeks`, depending on the subject.<br>
 Displayed red below are the 4 "fundamental" modules - the first 12 weeks of the program. These are the hardest part for most students and require a lot of special attention.
-![Curriculum graphic + project](https://github.com/HackYourFuture-CPH/teaching-instructions/blob/master/curriculum_graphic_weeks_new_AP.jpg)
+![Curriculum graphic + project](https://github.com/HackYourFuture-CPH/curriculum/blob/master/curriculum_graphic.jpg)
 At the end of the 7 modules we start a `final project` which is the most important product our students will take away from our classes. The goal is to let students build a real-world app using the skills they acquired during the course. An example can be seen [here](https://github.com/HackYourFuture-CPH/class02-final-project).
 
 ## Modules
