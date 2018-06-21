@@ -39,6 +39,9 @@ A: No, you can basically teach however you best see fit. We have learning goals 
 - Q: **When do the classes take place?**  
 A: Sundays 12:00 - 16:00    
 
+## Most crucial learning goals
+
+We want our students to be able to work in a tech company in Denmark. Technical skills are important, but just as much is an understanding of what the job of a web-developer looks like. Collaboration, teamwork, an inquisitive mindset and **asking tons of questions** are crucial "soft" learnings that we want to convey *over and over*.
 
 ## Step-by-step guide for teaching
 
