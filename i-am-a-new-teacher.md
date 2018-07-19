@@ -4,6 +4,11 @@
 
 \*:👨‍💻: If you don't have access to one of the things mentioned below, ask Christopher or Petru.
 
+### Wait wait wait, so what’s the difference between a mentor and a teacher actually? 
+A `mentor` is anyone who volunteers to help in our initiative and is part of our Slack community. This can entail answering questions on Slack, helping with events, helping with homework feedback or other flexible tasks.
+
+A `teacher` is any mentor who is taking charge of a module and teaching the actual contents of the curriculum. Being a teacher comes with a certain amount of responsibility and time commitment. We would never ask something of you that you don’t want to do, but be aware that we trust you to be present and prepared for the sessions pertaining to the module you teach. Every module is taught by two teachers, so you are not solely responsible, but we expect that you communicate well with your teaching partner how to split up the tasks related to teaching.
+
 ## Slack
 - Our Slack workplace has channels for every class, the main goal here is that we support students with questions/their homework during the week. You don't have to join all of them, but please join the channel of the class that you are currently teaching or helping out with. If you are not in Slack yet: :👨‍💻: 
 - We also have a mentor room (super secret). Not invited in yet? :arrow_right: :👨‍💻: 
