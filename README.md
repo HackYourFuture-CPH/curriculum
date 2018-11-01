@@ -147,8 +147,8 @@ By the end of this module, students should have a familiarity with and basic und
 - React Components   
 - State and Lifecycle   
 - Forms and Managing State   
-- Flux & MobX MobX    
-- API Integration   
+- API Integration
+- SPA and routing using React Router   
 
 ## [Database](https://github.com/HackYourFuture-CPH/databases)
 
