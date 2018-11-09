@@ -8,7 +8,7 @@ Are you a new **teacher**? Take a look [here](https://github.com/HackYourFuture-
 
 Are you a new **student**? Then check out [here](https://github.com/HackYourFuture-CPH/curriculum/blob/master/how-do-we-teach.md) for some extra info about how our program works and what it requires.
 
-**In any case, take a look at what we see as our [core values](https://github.com/HackYourFuture/curriculum/edit/master/hyf-core-values.md) at HackYourFuture before you join our community** ❤️
+**In any case, take a look at what we see as our [core values](https://github.com/HackYourFuture/curriculum/edit/master/hyf-core-values.md) at HackYourFuture and read the [Code Of Conduct](https://github.com/HackYourFuture-CPH/curriculum/blob/master/code-of-conduct.pdf) before you join our community** ❤️
 
 
 ## When do we teach?
