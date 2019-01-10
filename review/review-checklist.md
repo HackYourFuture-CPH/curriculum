@@ -1,4 +1,7 @@
 # Review checklist
+
+Read this article http://javascript.info/ninja-code. If you find any of the patterns from the article then there is something to give feedback on!
+
 ## General
 - [ ] Is everything indented properly.
 - [ ] How is the folder structure of the application.
