@@ -119,7 +119,7 @@ __JavaScript:__
 __GIT__
 - Git Workflow
 
-## [Node](https://github.com/HackYourFuture-CPH/Node.js)
+## [NODE.js](https://github.com/HackYourFuture-CPH/Node.js)
 
 >Node.js is a server-side platform built on Google Chrome's JavaScript Engine (V8 Engine).For almost any web application, it is essential to have a backend. The backend is a place where we, the developers, can store our data, communicate with users and let the users communicate with us, do smart things like calculations, data processing etc.
 
@@ -138,18 +138,6 @@ There are two reasons why we at HYF choose Node.JS over others:
 - Using `process` to read arguments from the CLI
 - Using `express` to make a RESTful API
 
-## [React](https://github.com/HackYourFuture-CPH/React)
-
-**Module goals**
-
-By the end of this module, students should have a familiarity with and basic understanding of the following:  
-
-- React Components   
-- State and Lifecycle   
-- Forms and Managing State   
-- API Integration
-- SPA and routing using React Router   
-
 ## [Database](https://github.com/HackYourFuture-CPH/databases)
 
 >What is a database? A place to store “things”. Could be as simple as a phone book (physical) or as complex as storing all the inventory for Amazon.com. Why use databases? Easier than having data all over the place. Puts the problem of collecting, storing, sorting and searching data in a single place. There are two primary types of database systems - relational and NoSQL. Relational databases have tables that relate to one another and can be “joined” ACID vs BASE
@@ -166,9 +154,22 @@ By the end of this module, students should have a familiarity with and basic und
 - MongoDB as an example of a NoSQL database
 
 
-## [Project](https://github.com/HackYourFuture/Project)
+## [React](https://github.com/HackYourFuture-CPH/React)
 
->In this module students work together in a team on a predefined project. The goal of this module is to combine all your acquired skills from the last modules into a project. In this course requirement analysis and project management are core themes while building a full-stack project.
+**Module goals**
+
+By the end of this module, students should have a familiarity with and basic understanding of the following:  
+
+- React Components   
+- State and Lifecycle   
+- Forms and Managing State   
+- API Integration
+- SPA and routing using React Router   
+- Redux
+
+## [Final Project](https://github.com/HackYourFuture/Project)
+
+>In this module students work together in a team on a predefined project. The goal of this module is to combine all your acquired skills from the last modules into a project, often in collaboration with a real-world organisation and real-world challenge to solve. In this project, scoping, requirement analysis and project management are core themes while building your first full-stack project! 💪
 
 **Module goals**
 
