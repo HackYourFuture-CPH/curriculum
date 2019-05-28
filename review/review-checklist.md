@@ -27,5 +27,12 @@ Read this article http://javascript.info/ninja-code. If you find any of the patt
 - [ ] Does a function have any side effects. Does it do more that the function name suggests. 
 - [ ] Is there code that is repeated. This should be avoided.
 - [ ] Are the variables in camelCase?
-
+- [ ] Does functions only have one responsibility?
+- [ ] Syntax consistency - Indentation, Paranthesis/braces/brackets, Whitespace, Quotes, Naming (cosistent case)
+- [ ] No shared variables
+- [ ] No code repetition
+- [ ] Descriptive variable/method/function names
+- [ ] Triple equality
+- [ ] Good function comment description
+- [ ] Good inline comment
 
