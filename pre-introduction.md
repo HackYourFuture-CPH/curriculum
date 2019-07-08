@@ -4,7 +4,9 @@ Here you can find a short list of resources to try out and get a small head-star
 #### HTML/CSS Intro
 If you don't know where to start, you can try some of these free online tutorials:
 <br /><a href="https://www.freecodecamp.org/" target="_blank">https://www.freecodecamp.org/</a>
+<br /><a href="https://internetingishard.com/html-and-css/" target="_blank">https://internetingishard.com/html-and-css/</a>
 <br /><a href="https://scrimba.com/g/ghtml" target="_blank">https://scrimba.com/g/ghtml</a>
+
 
 These are just suggestions - there are lots of other free online courses available online and it all depends on your personal preference.
 If you don’t have a laptop, you can also use a smartphone and go to: https://sololearn.com/ and complete the courses for HTML and CSS fundamentals.
@@ -14,7 +16,7 @@ A big part of our 7 month program is based on the programming language JavaScrip
 <br /><a href="https://www.freecodecamp.org/" target="_blank">https://www.freecodecamp.org/</a>
 <br /><a href="https://www.codecademy.com/learn/introduction-to-javascript" target="_blank">https://www.codecademy.com/learn/introduction-to-javascript</a>
 
-Or try this app: <a href="https://m.androidcentral.com/google-grasshopper" target="_blank">https://m.androidcentral.com/google-grasshopper</a> (fittingly named after programming pioneer Grace Hopper)
+You can read about tons of more resources <a href="https://frontendmasters.com/books/front-end-handbook/2018/learning/javascript.html" target="_blank">here</a>
 
 #### Frontend Developer Handbook:
 If you prefer theory and reading up before taking a plunge into the coding world - then we recommend having a look at the below handbook. Reading this text will explain you a lot about what it means to be a web-developer in 2018. We really recommend it.
