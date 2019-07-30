@@ -119,6 +119,21 @@ __JavaScript:__
 __GIT__
 - Git Workflow
 
+## [Database](https://github.com/HackYourFuture-CPH/databases)
+
+>What is a database? A place to store “things”. Could be as simple as a phone book (physical) or as complex as storing all the inventory for Amazon.com. Why use databases? Easier than having data all over the place. Puts the problem of collecting, storing, sorting and searching data in a single place. There are two primary types of database systems - relational and NoSQL. Relational databases have tables that relate to one another and can be “joined” ACID vs BASE
+
+**Module goals**
+By the end of this module, students should have a familiarity with and basic understanding of the following:
+
+- Entities
+- The relational model
+- The Structured Query Language (SQL)
+- The construction of a database system
+- MySQL as an example of a relational database system
+- Non-relational data and NoSQL
+- MongoDB as an example of a NoSQL database
+
 ## [NODE.js](https://github.com/HackYourFuture-CPH/Node.js)
 
 >Node.js is a server-side platform built on Google Chrome's JavaScript Engine (V8 Engine).For almost any web application, it is essential to have a backend. The backend is a place where we, the developers, can store our data, communicate with users and let the users communicate with us, do smart things like calculations, data processing etc.
@@ -137,21 +152,6 @@ There are two reasons why we at HYF choose Node.JS over others:
 - Using `fs` to read from and write to files.
 - Using `process` to read arguments from the CLI
 - Using `express` to make a RESTful API
-
-## [Database](https://github.com/HackYourFuture-CPH/databases)
-
->What is a database? A place to store “things”. Could be as simple as a phone book (physical) or as complex as storing all the inventory for Amazon.com. Why use databases? Easier than having data all over the place. Puts the problem of collecting, storing, sorting and searching data in a single place. There are two primary types of database systems - relational and NoSQL. Relational databases have tables that relate to one another and can be “joined” ACID vs BASE
-
-**Module goals**
-By the end of this module, students should have a familiarity with and basic understanding of the following:
-
-- Entities
-- The relational model
-- The Structured Query Language (SQL)
-- The construction of a database system
-- MySQL as an example of a relational database system
-- Non-relational data and NoSQL
-- MongoDB as an example of a NoSQL database
 
 
 ## [React](https://github.com/HackYourFuture-CPH/React)
