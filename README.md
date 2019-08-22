@@ -40,7 +40,7 @@ Class is every Sunday from 12.00 to approximately 16/16.30.
 - Presenting and explaining your work to others
 
 
-## [JavaScript1](https://github.com/HackYourFuture-CPH/JavaScript/tree/master/JavaScript1) + [GIT](https://github.com/HackYourFuture-CPH/Git)
+## [JavaScript1](https://github.com/HackYourFuture-CPH/JavaScript/tree/master/javascript1) + [GIT](https://github.com/HackYourFuture-CPH/Git)
 
 In [this](https://github.com/HackYourFuture-CPH/JavaScript/tree/master/fundamentals) repo you can find a very nice overview of some of the fundamental javaScript concepts
 
@@ -73,7 +73,7 @@ __CLI:__
 - Learn output redirection, piping on the terminal.
 - Write basic shell scripts to ease the programming life.
 
-## [JavaScript2](https://github.com/HackYourFuture-CPH/JavaScript/tree/master/JavaScript2) + [GIT](https://github.com/HackYourFuture-CPH/Git)
+## [JavaScript2](https://github.com/HackYourFuture-CPH/JavaScript/tree/master/javascript2) + [GIT](https://github.com/HackYourFuture-CPH/Git)
 
 **Module goals**
 
@@ -105,7 +105,7 @@ __Git:__
 - Know how to navigate between branches and what git commands to use for them.
 - Have an understanding of what `HEAD` means.
 
-## [JavaScript3](https://github.com/HackYourFuture-CPH/JavaScript/tree/master/JavaScript3) + [GIT](https://github.com/HackYourFuture-CPH/Git)
+## [JavaScript3](https://github.com/HackYourFuture-CPH/JavaScript/tree/master/javascript3) + [GIT](https://github.com/HackYourFuture-CPH/Git)
 
 **Module goals**
 
