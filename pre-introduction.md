@@ -14,6 +14,7 @@ If you don’t have a laptop, you can also use a smartphone and go to: https://s
 #### JavaScript Intro
 A big part of our 7 month program is based on the programming language JavaScript. Try to have a first look at what JavaScript is with some of these free online tutorials:
 <br /><a href="https://www.freecodecamp.org/" target="_blank">https://www.freecodecamp.org/</a>
+<br /><a href="https://frontendmasters.com/courses/web-development-v2/" target="_blank">https://frontendmasters.com/courses/web-development-v2/</a>
 <br /><a href="https://www.codecademy.com/learn/introduction-to-javascript" target="_blank">https://www.codecademy.com/learn/introduction-to-javascript</a>
 
 You can read about tons of more resources <a href="https://frontendmasters.com/books/front-end-handbook/2018/learning/javascript.html" target="_blank">here</a>
