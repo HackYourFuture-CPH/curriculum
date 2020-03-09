@@ -55,6 +55,7 @@ Read this article http://javascript.info/ninja-code. If you find any of the patt
 ### Naming conventions
 - [ ] All names should be in english and look out for spelling mistakes.
 - [ ] Try to understand the domain language and pick names that reflect the domain.
+- [ ] Filenames should be kept in lowercase (kebab-case: multiple words concatenated with `-`).
 - [ ] Variable and function names should be written in camelCase.
 - [ ] Javascript classes should be written in PascalCase.
 - [ ] CSS classes should be in kebab-case and cannot start with a number.
