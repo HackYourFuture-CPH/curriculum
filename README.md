@@ -168,6 +168,13 @@ By the end of this module, students should have a familiarity with and basic und
 - SPA and routing using React Router   
 - Redux
 
+## [Individual Project](https://github.com/HackYourFuture-CPH/meal-sharing-template/)
+
+**Module goals**
+
+By the end of this module, students should have able to use all the acumulated knowlegde and skills and deploy on Heroku the Meal Sharing App that should be developed using React on the Frontend, NodeJS and KnexJS for the Backend and MySQL for Databases.
+
+
 ## [Final Project](https://github.com/HackYourFuture/Project)
 
 >In this module students work together in a team on a predefined project. The goal of this module is to combine all your acquired skills from the last modules into a project, often in collaboration with a real-world organisation and real-world challenge to solve. In this project, scoping, requirement analysis and project management are core themes while building your first full-stack project! 💪
