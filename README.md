@@ -1,10 +1,10 @@
 
-# HackYourFuture Curriculum Copenhagen 🇩🇰
+# HackYourFuture Curriculum Denmark 🇩🇰
 
 >Here you can find an overview of the HackYourFuture program and a short listing of the contents and deliverables/learning goals of the different modules. The headers of the different modules link to the actual repositories that are used by teachers to post assignments/reading materials etc. Be aware that some of the modules make use of more than one repository. 
 
 
-Are you a new **teacher**? Take a look [here](https://github.com/HackYourFuture-CPH/curriculum/blob/master/i-am-a-new-teacher.md) for some practical tips on how to get started!
+Are you a new **volunteer**? Take a look [here](https://mentor.hackyourfuture.dk/) for some practical tips on how to get started!
 
 Are you a new **student**? Then check out [here](https://github.com/HackYourFuture-CPH/curriculum/blob/master/how-do-we-teach.md) for some extra info about how our program works and what it requires.
 
