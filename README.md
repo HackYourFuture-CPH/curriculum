@@ -8,7 +8,7 @@ Are you a new **volunteer**? Take a look [here](https://mentor.hackyourfuture.dk
 
 Are you a new **student**? Then check out [here](https://github.com/HackYourFuture-CPH/curriculum/blob/master/how-do-we-teach.md) for some extra info about how our program works and what it requires.
 
-**In any case, take a look at what we see as our [core values](https://github.com/HackYourFuture/curriculum/edit/master/hyf-core-values.md) at HackYourFuture and read the [Code Of Conduct](https://github.com/HackYourFuture-CPH/curriculum/blob/master/code-of-conduct.pdf) before you join our community** ❤️
+**In any case, please read the [Code Of Conduct](https://github.com/HackYourFuture-CPH/curriculum/blob/master/code-of-conduct.pdf) before you join our community** ❤️
 
 
 ## When do we teach?
@@ -43,7 +43,7 @@ Class is every Sunday from 12.00 to approximately 16/16.30.
 
 ## [JavaScript1](https://github.com/HackYourFuture-CPH/JavaScript/tree/master/javascript1) + [GIT](https://github.com/HackYourFuture-CPH/Git)
 
-In [this](https://github.com/HackYourFuture-CPH/JavaScript/tree/master/fundamentals) repo you can find a very nice overview of some of the fundamental javaScript concepts
+In [this](https://github.com/HackYourFuture-CPH/JavaScript/tree/master/fundamentals) repo you can find a very nice overview of some of the fundamental JavaScript concepts
 
 **Module goals** 
 
