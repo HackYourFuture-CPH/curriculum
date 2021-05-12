@@ -139,7 +139,7 @@ By the end of this module, students should have a familiarity with and basic und
 
 >Node.js is a server-side platform built on Google Chrome's JavaScript Engine (V8 Engine).For almost any web application, it is essential to have a backend. The backend is a place where we, the developers, can store our data, communicate with users and let the users communicate with us, do smart things like calculations, data processing etc.
 
-There are many languages for this. We might've heard of Java, C, C++, Go, Python, Ruby, PHP and the [list goes on](https://blog.newrelic.com/2016/08/18/popular-programming-languages-2016-go/). 
+There are many languages for this. We might've heard of Java, C, C++, Go, Python, Ruby, PHP and many more. 
 
 There are two reasons why we at HYF choose Node.JS over others:
 1) You already know JavaScript, so it's easier to get started than other languages
