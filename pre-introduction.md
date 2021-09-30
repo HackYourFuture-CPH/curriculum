@@ -20,8 +20,12 @@ A big part of our 7 month program is based on the programming language JavaScrip
 You can read about tons of more resources <a href="https://frontendmasters.com/books/front-end-handbook/2018/learning/javascript.html" target="_blank">here</a>
 
 #### Frontend Developer Handbook:
-If you prefer theory and reading up before taking a plunge into the coding world - then we recommend having a look at the below handbook. Reading this text will explain you a lot about what it means to be a web-developer in 2018. We really recommend it.
-<br /><a href="https://frontendmasters.com/books/front-end-handbook/2018/" target="_blank">https://frontendmasters.com/books/front-end-handbook/2018/</a>
+If you prefer theory and reading up before taking a plunge into the coding world - then we recommend having a look at the below handbook. Reading this text will explain you a lot about what it means to be a web-developer in 2021. We really recommend it.
+<br /><a href="https://frontendmasters.com/books/front-end-handbook/2019/" target="_blank">https://frontendmasters.com/books/front-end-handbook/2019/</a>
+(yes, the 2019 version is still relevant and no newer versions exist)
+
+#### Frontend Developer Roadmap:
+If you're curious about what technologies are relevant in the field of Frontend Development - take a look at this roadmap: <a href="https://roadmap.sh/frontend" target="_blank">https://roadmap.sh/frontend</a>. It's totally fine if you don't recognize over 90% of the words - but return to this map as you keep learning and slowly you might be able to see your own path :)
 
 
 Don't worry if everything doesn't immediately make sense, that's what we can help with later.
