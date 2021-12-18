@@ -7,9 +7,9 @@
 
 Are you a new **volunteer**? Take a look [here](https://mentor.hackyourfuture.dk/) for some practical tips on how to get started!
 
-Are you a new **student**? Then check out [here](https://github.com/HackYourFuture-CPH/curriculum/blob/master/how-do-we-teach.md) for some extra info about how our program works and what it requires.
+Are you a new **student**? Then check out [here](https://github.com/HackYourFuture-CPH/curriculum/blob/main/how-do-we-teach.md) for some extra info about how our program works and what it requires.
 
-**In any case, please read the [Code Of Conduct](https://github.com/HackYourFuture-CPH/curriculum/blob/master/code-of-conduct.pdf) before you join our community** ❤️
+**In any case, please read the [Code Of Conduct](https://github.com/HackYourFuture-CPH/curriculum/blob/main/code-of-conduct.pdf) before you join our community** ❤️
 
 
 ## When do we teach?
@@ -19,7 +19,7 @@ Class is every Sunday from 12.00 to approximately 16/16.30.
 
 ## What do we teach?
 
-![Curriculum graphic + project](https://github.com/HackYourFuture-CPH/curriculum/blob/master/curriculum_2020.png)
+![Curriculum graphic + project](https://github.com/HackYourFuture-CPH/curriculum/blob/main/curriculum_2020.png)
 
 
 ## [HTML/CSS](https://github.com/HackYourFuture-CPH/HTML-CSS) 
@@ -62,9 +62,9 @@ __CLI:__
 - Write basic shell scripts to ease the programming life.
 
 
-## [JavaScript1](https://github.com/HackYourFuture-CPH/JavaScript/tree/master/javascript1)
+## [JavaScript1](https://github.com/HackYourFuture-CPH/JavaScript/tree/main/javascript1)
 
-In [this](https://github.com/HackYourFuture-CPH/JavaScript/tree/master/fundamentals) repo you can find a very nice overview of some of the fundamental JavaScript concepts
+In [this](https://github.com/HackYourFuture-CPH/JavaScript/tree/main/fundamentals) repo you can find a very nice overview of some of the fundamental JavaScript concepts
 
 **Module goals** 
 
@@ -88,7 +88,7 @@ In [this](https://github.com/HackYourFuture-CPH/JavaScript/tree/master/fundament
 - Code commenting
 
 
-## [JavaScript2](https://github.com/HackYourFuture-CPH/JavaScript/tree/master/javascript2)
+## [JavaScript2](https://github.com/HackYourFuture-CPH/JavaScript/tree/main/javascript2)
 
 **Module goals**
 
@@ -106,7 +106,7 @@ In [this](https://github.com/HackYourFuture-CPH/JavaScript/tree/master/fundament
 - Polling
 
 
-## [JavaScript3](https://github.com/HackYourFuture-CPH/JavaScript/tree/master/javascript3)
+## [JavaScript3](https://github.com/HackYourFuture-CPH/JavaScript/tree/main/javascript3)
 
 **Module goals**
 
