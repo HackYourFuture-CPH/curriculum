@@ -5,6 +5,7 @@
 >Here you can find an overview of the HackYourFuture program and a short listing of the contents and deliverables/learning goals of the different modules. The headers of the different modules link to the actual repositories that are used by teachers to post assignments/reading materials etc. Be aware that some of the modules make use of more than one repository. 
 
 
+
 Are you a new **volunteer**? Take a look [here](https://mentor.hackyourfuture.dk/) for some practical tips on how to get started!
 
 Are you a new **student**? Then check out [here](https://github.com/HackYourFuture-CPH/curriculum/blob/main/how-do-we-teach.md) for some extra info about how our program works and what it requires.
@@ -19,7 +20,7 @@ Class is every Sunday from 12.00 to approximately 16/16.30.
 
 ## What do we teach?
 
-![Curriculum graphic + project](https://github.com/HackYourFuture-CPH/curriculum/blob/main/curriculum_2020.png)
+![Curriculum graphic + project](https://user-images.githubusercontent.com/6642037/156011443-9b88d0f2-0321-4296-84fd-a43ba6ede293.png)
 
 
 ## [HTML/CSS](https://github.com/HackYourFuture-CPH/HTML-CSS) 
@@ -154,14 +155,25 @@ There are two reasons why we at HYF choose Node.JS over others:
 
 ## [React](https://github.com/HackYourFuture-CPH/React)
 
+The React Module is split into 2 modules
+
+### [React 1](https://github.com/HackYourFuture-CPH/React/tree/main/react1)
+
 **Module goals**
 
-By the end of this module, students should have a familiarity with and basic understanding of the following:  
+By the end of this module, students should have a familiarity with and basic understanding of the following: 
 
 - React Components   
 - State and Lifecycle   
 - Forms and Managing State   
 - API Integration
+
+### [React 2](https://github.com/HackYourFuture-CPH/React/tree/main/react1)
+
+**Module goals**
+
+By the end of this module, students should have a familiarity with and basic understanding of the following:  
+
 - SPA and routing using React Router   
 - Redux
 
