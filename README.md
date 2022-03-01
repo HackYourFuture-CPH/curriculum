@@ -155,9 +155,13 @@ There are two reasons why we at HYF choose Node.JS over others:
 
 ## [React](https://github.com/HackYourFuture-CPH/React)
 
-The React Module is now split into 2 modules
+The React Module is split into 2 modules
 
 ### [React 1](https://github.com/HackYourFuture-CPH/React/tree/main/react1)
+
+**Module goals**
+
+By the end of this module, students should have a familiarity with and basic understanding of the following: 
 
 - React Components   
 - State and Lifecycle   
