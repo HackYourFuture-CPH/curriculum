@@ -20,8 +20,7 @@ Class is every Sunday from 12.00 to approximately 16/16.30.
 
 ## What do we teach?
 
-![Curriculum graphic + project](https://user-images.githubusercontent.com/6642037/156011443-9b88d0f2-0321-4296-84fd-a43ba6ede293.png)
-
+![Curriculum graphic + project](https://user-images.githubusercontent.com/6642037/165722973-e72e8a1b-c14b-4192-a19e-57fb54dd0e7a.png)
 
 ## [HTML/CSS](https://github.com/HackYourFuture-CPH/HTML-CSS) 
 
