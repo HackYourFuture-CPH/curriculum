@@ -167,7 +167,7 @@ By the end of this module, students should have a familiarity with and basic und
 - Forms and Managing State   
 - API Integration
 
-### [React 2](https://github.com/HackYourFuture-CPH/React/tree/main/react1)
+### [React 2](https://github.com/HackYourFuture-CPH/React/tree/main/react2)
 
 **Module goals**
 
