@@ -1,13 +1,4 @@
 # These are supported funding model platforms
 
 github: HYFops
-patreon: HYFops
-open_collective: HYFops
-ko_fi: HYFops
-tidelift:
-community_bridge:
-liberapay: HYFops
-issuehunt: HYFops
-otechie: HYFops
-lfx_crowdfunding:
 custom: ['https://github.com/sponsors/HackYourFuture-CPH', 'https://www.hackyourfuture.dk/support']
