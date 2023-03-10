@@ -13,12 +13,12 @@ Are you a new **student**? Then check out [here](https://github.com/HackYourFutu
 **In any case, please read the [Code Of Conduct](https://github.com/HackYourFuture-CPH/curriculum/blob/main/code-of-conduct.pdf) before you join our community** ❤️
 
 
-## When do we teach?
+## When do we run our workshops?
 
-### Class on Sunday
-Class is every Sunday from 12.00 to approximately 16/16.30. 
+### Workshops on Sundays
+Sessions take place every Sunday from 12.00 to approximately 16/16.30. 
 
-## What do we teach?
+## What do you learn at HYF?
 
 ![Curriculum graphic + project](https://user-images.githubusercontent.com/6642037/165722973-e72e8a1b-c14b-4192-a19e-57fb54dd0e7a.png)
 
