@@ -20,7 +20,7 @@ Sessions take place every Sunday from 12.00 to approximately 16/16.30.
 
 ## What do you learn at HYF?
 
-![Curriculum graphic + project](https://user-images.githubusercontent.com/6642037/165722973-e72e8a1b-c14b-4192-a19e-57fb54dd0e7a.png)
+<img width="1392" alt="image" src="https://github.com/HackYourFuture-CPH/curriculum/assets/64137994/96e32bf0-b657-4c5f-90a3-8183c06b75c5">
 
 ## [HTML/CSS](https://github.com/HackYourFuture-CPH/HTML-CSS) 
 
