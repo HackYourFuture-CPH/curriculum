@@ -20,6 +20,7 @@ Sessions take place every Sunday from 12.00 to approximately 16/16.30.
 
 ![Curriculum graphic + project](/curriculum.png)
 
+
 ## [HTML/CSS](https://github.com/HackYourFuture-CPH/HTML-CSS)
 
 > **HTML** is the standard markup language for creating Web pages. **CSS** is a language that describes the style of an HTML document. This module will introduce the basic concepts of HTML5 and CSS. We spend time getting you familiar with your text editor and handy developer tools. After this we will focus on responsive web development. Making responsive websites is an important part of front-end programming. You will learn how to make your websites responsive by using media queries using a “mobile first” approach. Last but not least we will spend time practicing some soft skills that we think are important for becoming a good developer. These include: give and receive feedback to your fellow students, presenting and explaining your work.
