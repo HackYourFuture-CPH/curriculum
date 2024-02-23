@@ -6,7 +6,7 @@
 
 Are you a new **volunteer**? Take a look [here](https://mentor.hackyourfuture.dk/) for some practical tips on how to get started!
 
-Are you a new **student**? Then check out [here](https://github.com/HackYourFuture-CPH/curriculum/blob/main/how-do-we-teach.md) for some extra info about how our program works and what it requires.
+Are you a new **trainee**? Then check out [here](https://github.com/HackYourFuture-CPH/curriculum/blob/main/how-do-we-teach.md) for some extra info about how our program works and what it requires.
 
 **In any case, please read the [Code Of Conduct](https://github.com/HackYourFuture-CPH/curriculum/blob/main/code-of-conduct.pdf) before you join our community** ❤️
 
@@ -23,7 +23,7 @@ Sessions take place every Sunday from 12.00 to approximately 16/16.30.
 
 ## [HTML/CSS](https://github.com/HackYourFuture-CPH/HTML-CSS)
 
-> **HTML** is the standard markup language for creating Web pages. **CSS** is a language that describes the style of an HTML document. This module will introduce the basic concepts of HTML5 and CSS. We spend time getting you familiar with your text editor and handy developer tools. After this we will focus on responsive web development. Making responsive websites is an important part of front-end programming. You will learn how to make your websites responsive by using media queries using a “mobile first” approach. Last but not least we will spend time practicing some soft skills that we think are important for becoming a good developer. These include: give and receive feedback to your fellow students, presenting and explaining your work.
+> **HTML** is the standard markup language for creating Web pages. **CSS** is a language that describes the style of an HTML document. This module will introduce the basic concepts of HTML5 and CSS. We spend time getting you familiar with your text editor and handy developer tools. After this we will focus on responsive web development. Making responsive websites is an important part of front-end programming. You will learn how to make your websites responsive by using media queries using a “mobile first” approach. Last but not least we will spend time practicing some soft skills that we think are important for becoming a good developer. These include: give and receive feedback to your fellow trainees, presenting and explaining your work.
 
 **Module goals**
 
@@ -36,12 +36,12 @@ Sessions take place every Sunday from 12.00 to approximately 16/16.30.
 - Responsive mobile first development
 - Know "good" and "bad" practices when it comes to HTML
 - Get an understanding of what good resources are on the web
-- Give receive/feedback from/on fellow students
+- Give receive/feedback from/on fellow trainees
 - Presenting and explaining your work to others
 
 ## [GIT](https://github.com/HackYourFuture-CPH/Git) + [CLI](https://github.com/HackYourFuture-CPH/CommandLine)
 
-> **GIT** is a software for tracking changes in any set of files. It's usually used for coordinating work among developers collaboratively working on the same source code during software development. The **command line** (CLI, shell) is the interface between you (the user) and the operating system which interprets your commands and allows the computer to respond to your command. In this module students get familiar with the command line and learn what GIT is and what problem it solves.
+> **GIT** is a software for tracking changes in any set of files. It's usually used for coordinating work among developers collaboratively working on the same source code during software development. The **command line** (CLI, shell) is the interface between you (the user) and the operating system which interprets your commands and allows the computer to respond to your command. In this module trainees get familiar with the command line and learn what GIT is and what problem it solves.
 
 **Module goals**
 
@@ -120,7 +120,7 @@ In [this](https://github.com/HackYourFuture-CPH/JavaScript/tree/main/fundamental
 > What is a **database**? A place to store “things”. Could be as simple as a phone book (physical) or as complex as storing all the inventory for Amazon.com. Why use databases? Easier than having data all over the place. Puts the problem of collecting, storing, sorting and searching data in a single place. There are two primary types of database systems - relational and NoSQL. Relational databases have tables that relate to one another and can be “joined” ACID vs BASE
 
 **Module goals**
-By the end of this module, students should have a familiarity with and basic understanding of the following:
+By the end of this module, trainees should have a familiarity with and basic understanding of the following:
 
 - Entities
 - The relational model
@@ -141,7 +141,7 @@ There are two reasons why we at HYF choose Node.JS over others:
 1. You already know JavaScript, so it's easier to get started than other languages
 2. Node.js is great for making web APIs because it is asynchronous by nature and thus allows for high input/output. By this we mean that it allows many users to make very light requests at the same time.
 
-## What will we learn?
+**Module goals**
 
 - What is Node.js?
 - Using Node Package Manager (NPM)
@@ -153,13 +153,13 @@ There are two reasons why we at HYF choose Node.JS over others:
 
 ## [React](https://github.com/HackYourFuture-CPH/React)
 
-The React Module is split into 2 modules
+The React Module is split into 2 modules. 
 
 ### [React 1](https://github.com/HackYourFuture-CPH/React/tree/main/react1)
 
 **Module goals**
 
-By the end of this module, students should have a familiarity with and basic understanding of the following:
+By the end of this module, trainees should have a familiarity with and basic understanding of the following:
 
 - React Components
 - State and Lifecycle
@@ -170,32 +170,46 @@ By the end of this module, students should have a familiarity with and basic und
 
 **Module goals**
 
-By the end of this module, students should have a familiarity with and basic understanding of the following:
+By the end of this module, trainees should have a familiarity with and basic understanding of the following:
 
 - SPA and routing using React Router
 - Redux
 
-## [Individual Project](https://github.com/HackYourFuture-CPH/meal-sharing-template/)
+## [Individual Project / React Project](https://github.com/HackYourFuture-CPH/meal-sharing-template/)
 
 **Module goals**
 
-By the end of this module, students should have able to use all the acumulated knowlegde and skills and deploy on Heroku the Meal Sharing App that should be developed using React on the Frontend, NodeJS and KnexJS for the Backend and MySQL for Databases.
+By the end of this module, trainees should be able to use all the accumulated knowledge and skills and deploy on Heroku the Meal Sharing App that should be developed using React on the Frontend, NodeJS and KnexJS for the Backend, and MySQL for Databases.
+
+## [Career Training](https://github.com/HackYourFuture-CPH/career-training)
+
+> The goal of this series of sessions is to optimally prepare the trainees for the job hunt in Denmark's IT industry and to shape a better understanding of why quality code and solid code projects are the most valuable assets they have.
+
+**Module Goals**
+
+- Understand where to look for suitable jobs and internships.
+- Understand what you should do in order to be an attractive candidate on the job market.
+- Understand what HYF can do to support you on your job hunt.
+- Know how to assemble an effective CV.
+- Know how to make your Linkedin page attractive to recruiters.
+- Know how to make your GitHub page attractive to recruiters.
+- Learn how to perform well in a technical interview.
+
+
 
 ## [Final Project](https://github.com/HackYourFuture/Project)
 
-> In this module students work together in a team on a predefined project. The goal of this module is to combine all your acquired skills from the last modules into a project, often in collaboration with a real-world organisation and real-world challenge to solve. In this project, scoping, requirement analysis and project management are core themes while building your first full-stack project! 💪
+> In this module trainees work together in a team on a predefined project. The goal of this module is to combine all your acquired skills from the last modules into a project, often in collaboration with a real-world organization and real-world challenge to solve. In this project, scoping, requirement analysis, and project management are core themes while building your first full-stack project! 💪
+
 
 **Module goals**
 
 - Working on a full-stack skeleton (provided by us), using different technologies you’ve been exposed to during the HackYourFuture program.
-- Fill the gaps that you have left in the previous modules. Did you miss an Node assignment? Make sure to pick up an extra issue there.
-- Show that you can work and function in a team.
-- Get familiar working with Scrum.
+- Fill the gaps that you have left in the previous modules. Did you miss a Node assignment? Make sure to pick up an extra issue there.
+- Show that you can work, communicate, and function in a team.
+- Get familiar working with agile methodologies.
 
-**After this module we offer (technical)interview and cv training for those who are interested. The goal of these sessions are to:**
 
-- Get your CV and LinkedIn ready for when you are starting to go to interviews.
-- Get an understanding of how (technical) interviews go in the Danish job market.
 
 _The HackYourFuture curriculum is subject to CC BY NC SA copyright. This means you can freely use our materials, but just make sure to give us credit for it and don't use it commercially, as it is the intellectual property of our volunteers :)_
 
