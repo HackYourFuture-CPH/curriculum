@@ -175,12 +175,6 @@ By the end of this module, trainees should have a familiarity with and basic und
 - SPA and routing using React Router
 - Redux
 
-## [Individual Project / React Project](https://github.com/HackYourFuture-CPH/meal-sharing-template/)
-
-**Module goals**
-
-By the end of this module, trainees should be able to use all the accumulated knowledge and skills and deploy on Heroku the Meal Sharing App that should be developed using React on the Frontend, NodeJS and KnexJS for the Backend, and MySQL for Databases.
-
 ## [Career Training](https://github.com/HackYourFuture-CPH/career-training)
 
 > The goal of this series of sessions is to optimally prepare the trainees for the job hunt in Denmark's IT industry and to shape a better understanding of why quality code and solid code projects are the most valuable assets they have.
@@ -196,8 +190,7 @@ By the end of this module, trainees should be able to use all the accumulated kn
 - Learn how to perform well in a technical interview.
 
 
-
-## [Final Project](https://github.com/HackYourFuture/Project)
+## [Final Project](https://github.com/HackYourFuture-CPH/boilerplate-for-fp)
 
 > In this module trainees work together in a team on a predefined project. The goal of this module is to combine all your acquired skills from the last modules into a project, often in collaboration with a real-world organization and real-world challenge to solve. In this project, scoping, requirement analysis, and project management are core themes while building your first full-stack project! 💪
 
@@ -205,7 +198,7 @@ By the end of this module, trainees should be able to use all the accumulated kn
 **Module goals**
 
 - Working on a full-stack skeleton (provided by us), using different technologies you’ve been exposed to during the HackYourFuture program.
-- Fill the gaps that you have left in the previous modules. Did you miss a Node assignment? Make sure to pick up an extra issue there.
+- Fill the gaps that you have left in the previous modules. Did you miss a Node assignment? Make sure to pick up an extra issue related to Node.js.
 - Show that you can work, communicate, and function in a team.
 - Get familiar working with agile methodologies.
 
