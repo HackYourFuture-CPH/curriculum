@@ -39,13 +39,14 @@ Sessions take place every Sunday from 12.00 to approximately 16/16.30.
 - Give receive/feedback from/on fellow trainees
 - Presenting and explaining your work to others
 
-## [GIT](https://github.com/HackYourFuture-CPH/Git) + [CLI](https://github.com/HackYourFuture-CPH/CommandLine)
+## GIT1
 
-> **GIT** is a software for tracking changes in any set of files. It's usually used for coordinating work among developers collaboratively working on the same source code during software development. The **command line** (CLI, shell) is the interface between you (the user) and the operating system which interprets your commands and allows the computer to respond to your command. In this module trainees get familiar with the command line and learn what GIT is and what problem it solves.
+> 
+ is a software for tracking changes in any set of files. It's usually used for coordinating work among developers collaboratively working on the same source code during software development. The **command line** (CLI, shell) is the interface between you (the user) and the operating system which interprets your commands and allows the computer to respond to your command. In this module trainees get familiar with the command line and learn what GIT is and what problem it solves.
 
 **Module goals**
 
-**GIT:**
+[GIT](https://github.com/HackYourFuture-CPH/Git/week1) 
 
 - Have an understanding of what GIT is and what problem it solves.
 - Understand what a `commit` is and how it represents a certain unit of work
@@ -55,7 +56,7 @@ Sessions take place every Sunday from 12.00 to approximately 16/16.30.
 - Have an understanding of branches and how they can be used.
 - Know how to navigate between branches and what git commands to use for them.
 
-**CLI:**
+[CLI](https://github.com/HackYourFuture-CPH/CommandLine)
 
 - To know the terminal/bash/command line for UNIX based systems.
 - Navigate the file system without using a UI explorer.
@@ -174,6 +175,22 @@ By the end of this module, trainees should have a familiarity with and basic und
 
 - SPA and routing using React Router
 - Redux
+
+## [GIT2](https://github.com/HackYourFuture-CPH/Git/tree/main/week2)
+
+> In this module, trainees will deepen their understanding of Git and GitHub, with a focus on collaborative workflows and advanced features. This training prepares students for real-world scenarios, where teamwork and effective version control are crucial.
+
+**Module Goals**
+
+GIT2:
+
+- Understand advanced Git concepts and their application in collaborative software development.
+- Understand the workflow for setting up and managing repositories on GitHub.
+- Know how to create and manage branches, including creating, navigating, and merging them.
+- Know how to resolve merge conflicts that arise during collaborative work.
+- Understand and be able to use advanced Git commands such as git stash, git diff, git cherry-pick, git rebase, and git revert.
+- Know how to modify and manage commits, including techniques for resetting, amending, and cherry-picking commits.
+- Understand best practices for writing clear and effective commit messages and creating well-structured pull requests.
 
 ## [Career Training](https://github.com/HackYourFuture-CPH/career-training)
 
