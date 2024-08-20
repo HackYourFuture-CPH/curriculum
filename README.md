@@ -132,7 +132,7 @@ By the end of this module, trainees should have a familiarity with and basic und
 
 ## [NODE.js](https://github.com/HackYourFuture-CPH/Node.js)
 
-> Node.js is a server-side platform built on Google Chrome's JavaScript Engine (V8 Engine).For almost any web application, it is essential to have a backend. The backend is a place where we, the developers, can store our data, communicate with users and let the users communicate with us, do smart things like calculations, data processing etc.
+> Node.js is a server-side platform built on Google Chrome's JavaScript Engine (V8 Engine). For almost any web application, it is essential to have a backend. The backend is a place where we, the developers, can store our data, communicate with users and let the users communicate with us, do smart things like calculations, data processing etc.
 
 There are many languages for this. We might've heard of Java, C, C++, Go, Python, Ruby, PHP and many more.
 
