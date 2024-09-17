@@ -190,7 +190,7 @@ By the end of this module, trainees should have a familiarity with and basic und
 - Learn how to perform well in a technical interview.
 
 
-## [Final Project](https://github.com/HackYourFuture-CPH/boilerplate-for-fp)
+## [Final Project](https://github.com/HackYourFuture-CPH/finalproject)
 
 > In this module trainees work together in a team on a predefined project. The goal of this module is to combine all your acquired skills from the last modules into a project, often in collaboration with a real-world organization and real-world challenge to solve. In this project, scoping, requirement analysis, and project management are core themes while building your first full-stack project! 💪
 
