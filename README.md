@@ -39,13 +39,11 @@ Sessions take place every Sunday from 12.00 to approximately 16/16.30.
 - Give receive/feedback from/on fellow trainees
 - Presenting and explaining your work to others
 
-## [GIT](https://github.com/HackYourFuture-CPH/Git) + [CLI](https://github.com/HackYourFuture-CPH/CommandLine)
+## [GIT1](https://github.com/HackYourFuture-CPH/Git/tree/main/Git1)
 
 > **GIT** is a software for tracking changes in any set of files. It's usually used for coordinating work among developers collaboratively working on the same source code during software development. The **command line** (CLI, shell) is the interface between you (the user) and the operating system which interprets your commands and allows the computer to respond to your command. In this module trainees get familiar with the command line and learn what GIT is and what problem it solves.
 
 **Module goals**
-
-**GIT:**
 
 - Have an understanding of what GIT is and what problem it solves.
 - Understand what a `commit` is and how it represents a certain unit of work
@@ -54,14 +52,7 @@ Sessions take place every Sunday from 12.00 to approximately 16/16.30.
 - Know how to `commit` and `push` files in that new repository.
 - Have an understanding of branches and how they can be used.
 - Know how to navigate between branches and what git commands to use for them.
-
-**CLI:**
-
-- To know the terminal/bash/command line for UNIX based systems.
-- Navigate the file system without using a UI explorer.
-- Copy, rename and move files with terminal commands.
-- Learn output redirection, piping on the terminal.
-- Write basic shell scripts to ease the programming life.
+- Basic CLI commands to navigate around the filesystem
 
 ## [JavaScript1](https://github.com/HackYourFuture-CPH/JavaScript/tree/main/javascript1)
 
@@ -174,6 +165,13 @@ By the end of this module, trainees should have a familiarity with and basic und
 
 - SPA and routing using React Router
 - Redux
+
+## [GIT2](https://github.com/HackYourFuture-CPH/Git/tree/main/Git2)
+
+**Module goals**
+
+- To become comfortable using branches, handling merge conflicts, and using pull requests.
+- To be ready to use git to collaborate with other trainees on the Final Project.
 
 ## [Career Training](https://github.com/HackYourFuture-CPH/career-training)
 
