@@ -136,9 +136,9 @@ There are two reasons why we at HYF choose Node.JS over others:
 
 - What is Node.js?
 - Using Node Package Manager (NPM)
-- Using import to include modules
-- Using express to make a RESTful API
-- Using mysql to connect the API to the backend
+- Using `import` to include modules
+- Using `express` to make a RESTful API
+- Using `mysql` to connect the API to the backend
 - Using Postman to build and test API requests
 
 ## [React](https://github.com/HackYourFuture-CPH/React)
