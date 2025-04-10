@@ -4,7 +4,6 @@ Here you can find a short list of resources to try out and get a small head-star
 #### HTML/CSS Intro
 If you don't know where to start, you can try some of these free online tutorials:
 <br /><a href="https://www.freecodecamp.org/" target="_blank">https://www.freecodecamp.org/</a>
-<br /><a href="https://internetingishard.com/html-and-css/" target="_blank">https://internetingishard.com/html-and-css/</a>
 <br /><a href="https://scrimba.com/g/ghtml" target="_blank">https://scrimba.com/g/ghtml</a>
 
 
